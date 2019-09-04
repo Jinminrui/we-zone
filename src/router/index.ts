@@ -7,13 +7,13 @@ export default new Router({
   routes: [
     {
       path: '/',
-      redirect: '/login',
+      redirect: '/login'
     },
 
     {
       path: '/login',
       name: 'login',
-      component: () => import('@/views/login/index.vue'),
-    },
-  ],
+      component: () => import('@/views/login/index.vue')
+    }
+  ]
 })
