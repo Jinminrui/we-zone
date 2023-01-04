@@ -26,9 +26,9 @@
     "vuex-class": "^0.3.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.0.4",
+    "@vue/cli-plugin-babel": "^3.9.2",
     "@vue/cli-plugin-typescript": "^3.0.4",
-    "@vue/cli-service": "^3.0.4",
+    "@vue/cli-service": "^5.0.8",
     "cssnano-preset-advanced": "^4.0.7",
     "eslint": "^6.3.0",
     "eslint-config-standard": "^14.1.0",
